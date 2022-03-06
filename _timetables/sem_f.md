@@ -4,17 +4,22 @@ ref: undergraduate_f
 semester: '6'
 timetable:
   - day: "Δευτέρα"
-    time: 11
+    time: 9
     course: "Στοχαστική Ανάλυση Δεδομένων" 
     author: alex
-    location: "Εξ αποστάσεως"
+    location: "Εργαστήριο Γαληνός"
   - day: "Δευτέρα"
-    time: 13
+    time: 11
     course: ai
     author: kerman
-    location: "Εξ αποστάσεως"
+    location: "Αίθουσα 3"
   - day: "Δευτέρα"
-    time: 15
+    time: 13
+    course: "Θεωρία Γραφημάτων και Εφαρμογές"
+    author: karyotis
+    location: "Αίθουσα 2"
+  - day: "Δευτέρα"
+    time: 17
     course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
     author: dadoyan
     location: "Εξ αποστάσεως"
