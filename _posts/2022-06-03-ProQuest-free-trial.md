@@ -1,4 +1,5 @@
-m PIL t-free-trial
+---
+ref: ProQuest-free-trial
 title: "Δωρεάν δοκιμαστική περίοδος στη βάση ProQuest Dissertations & Theses Global"
 excerpt: "Η Βιβλιοθήκη εξασφάλισε για τα μέλη της ακαδημαϊ­κής κοινότητας του Ιονίου Πανεπιστημίου δωρεάν δοκιμαστική πρόσβαση για δύο μήνες στη βάση ProQuest Dissertations & Theses Global. Η δοκιμαστική πρόσβαση δίνεται στο πλαίσιο συμφωνίας μέσω του ΣΕΑΒ."
 categories:
