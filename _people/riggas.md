@@ -1,11 +1,10 @@
 ---
 ref: riggas
 title: "Δημήτριος Ρίγγας"
-bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής"
+bio: "Τεχνικός - εργαστηριακός"
 rank: 5
 author: riggas
-email: ""
-uri:  ""
+email: "riggas@ionio.gr"
+research:  "Κοινωνικά δίκτυα - έξυπνες εφαρμογές πληροφορικής"
 ---
 
-### education:
