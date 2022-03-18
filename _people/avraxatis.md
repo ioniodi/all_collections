@@ -1,8 +1,8 @@
 ---
-ref: vraxatis
+ref: avraxatis
 title: "Αριστείδης Βραχάτης"
 bio: "Επίκουρος Καθηγητής"
-author: vraxatis
+author: avraxatis
 tel: ""
 email: "aris.vrahatis@ionio.gr"
 uri: ""
