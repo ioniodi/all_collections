@@ -6,7 +6,7 @@ excerpt: "Την εποχή του Διαδικτύου, των διάφορων
 uri: "https://opencourses.ionio.gr/courses/DDI180/"
 code: ΗΥ260
 semester: 6
-type: "O"
+type: "Ο"
 hours: 4
 extra: 2Ε
 ects: 4
