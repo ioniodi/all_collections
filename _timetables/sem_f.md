@@ -127,7 +127,7 @@ timetable:
     author: hristope
     location: "Εξ αποστάσεως"
   
-  - day: "Τρίτη"
+  - day: "Παρασκευή"
     time: 9
     course: distributed-network-systems
     author: hristope
