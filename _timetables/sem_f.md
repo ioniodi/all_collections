@@ -138,4 +138,21 @@ timetable:
     course: information-retrieval
     author: riggas
     location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
+    time: 15
+    course: pattern-recognition
+    author: "Γ. Κατωμέρης"
+    location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
+    time: 17
+    course: soen
+    author: choko
+    location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
+    time: 19
+    course: information-retrieval
+    author: mmarag
+    course: ai
+    author: kerman
+    location: "Εξ αποστάσεως"
 ---
