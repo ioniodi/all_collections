@@ -4,17 +4,27 @@ ref: undergraduate_f
 semester: '6'
 timetable:
   - day: "Δευτέρα"
-    time: 11
+    time: 9
     course: "Στοχαστική Ανάλυση Δεδομένων" 
     author: alex
     location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
-    time: 13
+    time: 11
     course: ai
     author: kerman
     location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
+    time: 13
+    course: "Θεωρία Γραφημάτων και Εφαρμογές"
+    author: karyotis
+    location: "Εξ αποστάσεως"
+  - day: "Δευτέρα"
     time: 15
+    course: information-retrieval
+    author: mmarag
+    location: "Εξ αποστάσεως"
+  - day: "Δευτέρα"
+    time: 17
     course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
     author: dadoyan
     location: "Εξ αποστάσεως"
@@ -26,44 +36,44 @@ timetable:
     
   - day: "Τρίτη"
     time: 9
-    course: pattern-recognition
-    author: vlamos
+    course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+    author: dadoyan
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 11
-    course: distributed-network-systems
-    author: hristope
+    course: "Στοχαστική Ανάλυση Δεδομένων" 
+    author: alex
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 13
-    course: distributed-network-systems
-    author: okon
+    course: "Θεωρία Γραφημάτων και Εφαρμογές"
+    author: karyotis
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 15
-    course: internet-technologies
-    author: dtsouma
+    course: pattern-recognition
+    author: vlamos
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 17
     course: "Συστήματα Υποστήριξης Αποφάσεων"
     author: exarchos
     location: "Εξ αποστάσεως"
-  - day: "Τρίτη"
+  - day: "Τετάρτη"
     time: 19
-    course: "Θεωρία Γραφημάτων και Εφαρμογές"
-    author: karyotis
+    course: "Βιοπληροφορική"
+    author: vlamos
     location: "Εξ αποστάσεως"
 
   - day: "Τετάρτη"
     time: 9
-    course: "Θεωρία Γραφημάτων και Εφαρμογές"
-    author: karyotis
+    course: "Συστήματα Υποστήριξης Αποφάσεων"
+    author: exarchos
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 11
-    course: "Βιοπληροφορική"
-    author: vlamos
+    course: pattern-recognition
+    author: "Γ. Κατωμέρης"
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 13
@@ -72,34 +82,34 @@ timetable:
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 15
-    course: "Συστήματα Υποστήριξης Αποφάσεων"
-    author: exarchos
+    course: "Βιοπληροφορική"
+    author: vlamos
     location: "Εξ αποστάσεως"
-  - day: "Τετάρτη"
+  - day: "Τερτάτη"
     time: 17
-    course: internet-technologies
-    author: dtsouma
+    course: information-retrieval
+    author: mmarag
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 19
-    course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
-    author: dadoyan
+    course: internet-technologies
+    author: dtsouma
     location: "Εξ αποστάσεως"
 
   - day: "Πέμπτη"
     time: 9
-    course: soen
+    course: ai
     author: riggas
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 11
-    course: information-retrieval
+    course: soen
     author: riggas
     location: "Εξ αποστάσεως"
-  - day: "Πέμπτη"
+ - day: "Πέμπτη"
     time: 13
-    course: "Στοχαστική Ανάλυση Δεδομένων"
-    author: avlon
+    course: internet-technologies
+    author: dtsouma
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 15
@@ -111,31 +121,36 @@ timetable:
     course: "Βιοπληροφορική"
     author: exarchos
     location: "Εξ αποστάσεως"
+  - day: "Πέμπτη"
+    time: 19
+    course: distributed-network-systems
+    author: hristope
+    location: "Εξ αποστάσεως"
   
-  - day: "Παρασκευή"
+  - day: "Τρίτη"
     time: 9
-    course: "Βιοπληροφορική"
-    author: "Γ. Κατωμέρης"
+    course: distributed-network-systems
+    author: hristope
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 11
-    course: ai
+    course: information-retrieval
     author: riggas
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
-    time: 13
+    time: 15
     course: pattern-recognition
     author: "Γ. Κατωμέρης"
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 17
-    course: distributed-network-systems
-    author: hristope
+    course: soen
+    author: choko
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 19
-    course: information-retrieval
-    author: mmarag
+    course: ai
+    author: kerman
     location: "Εξ αποστάσεως"
 ---
 
