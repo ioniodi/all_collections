@@ -64,7 +64,7 @@ timetable:
     course: "Βιοπληροφορική"
     author: vlamos
     location: "Εξ αποστάσεως"
-
+    
   - day: "Τετάρτη"
     time: 9
     course: "Συστήματα Υποστήριξης Αποφάσεων"
@@ -85,7 +85,7 @@ timetable:
     course: "Βιοπληροφορική"
     author: vlamos
     location: "Εξ αποστάσεως"
-  - day: "Τερτάτη"
+  - day: "Τετάρτη"
     time: 17
     course: information-retrieval
     author: mmarag
@@ -95,9 +95,10 @@ timetable:
     course: internet-technologies
     author: dtsouma
     location: "Εξ αποστάσεως"
-
+    
   - day: "Πέμπτη"
     time: 9
+    course: soen
     course: ai
     author: riggas
     location: "Εξ αποστάσεως"
@@ -106,7 +107,7 @@ timetable:
     course: soen
     author: riggas
     location: "Εξ αποστάσεως"
- - day: "Πέμπτη"
+  - day: "Πέμπτη"
     time: 13
     course: internet-technologies
     author: dtsouma
@@ -126,7 +127,7 @@ timetable:
     course: distributed-network-systems
     author: hristope
     location: "Εξ αποστάσεως"
-  
+    
   - day: "Παρασκευή"
     time: 9
     course: distributed-network-systems
@@ -137,20 +138,4 @@ timetable:
     course: information-retrieval
     author: riggas
     location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 15
-    course: pattern-recognition
-    author: "Γ. Κατωμέρης"
-    location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 17
-    course: soen
-    author: choko
-    location: "Εξ αποστάσεως"
-  - day: "Παρασκευή"
-    time: 19
-    course: ai
-    author: kerman
-    location: "Εξ αποστάσεως"
 ---
-
