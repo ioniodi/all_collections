@@ -59,7 +59,7 @@ timetable:
     course: "Συστήματα Υποστήριξης Αποφάσεων"
     author: exarchos
     location: "Εξ αποστάσεως"
-  - day: "Τετάρτη"
+  - day: "Τρίτη"
     time: 19
     course: "Βιοπληροφορική"
     author: vlamos
