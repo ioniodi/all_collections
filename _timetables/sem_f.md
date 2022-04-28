@@ -62,7 +62,7 @@ timetable:
   - day: "Τρίτη"
     time: 19
     course: "Βιοπληροφορική"
-    author: vlamos
+    author: vrahatis
     location: "Εξ αποστάσεως"
     
   - day: "Τετάρτη"
@@ -73,7 +73,7 @@ timetable:
   - day: "Τετάρτη"
     time: 11
     course: pattern-recognition
-    author: "Γ. Κατωμέρης"
+    author: vrahatis
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 13
@@ -88,17 +88,16 @@ timetable:
   - day: "Τετάρτη"
     time: 17
     course: information-retrieval
-    author: mmarag
+    author: "Γ. Αλεξανδρίδης"
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 19
     course: internet-technologies
-    author: dtsouma
+    author: "Α. Τσίπης"
     location: "Εξ αποστάσεως"
     
   - day: "Πέμπτη"
     time: 9
-    course: soen
     course: ai
     author: riggas
     location: "Εξ αποστάσεως"
@@ -110,17 +109,17 @@ timetable:
   - day: "Πέμπτη"
     time: 13
     course: internet-technologies
-    author: dtsouma
+    author: "Α. Τσίπης"
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 15
     course: internet-technologies
-    author: dtsouma
+    author: "Α. Τσίπης"
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 17
     course: "Βιοπληροφορική"
-    author: exarchos
+    author: "Γ. Κατωμέρης"
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 19
@@ -146,13 +145,11 @@ timetable:
   - day: "Παρασκευή"
     time: 17
     course: soen
-    author: choko
+    author: "Δ. Αλεξανδράκης"
     location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 19
-    course: information-retrieval
-    author: mmarag
     course: ai
-    author: kerman
+    author: "Σ. Νικηφόρος"
     location: "Εξ αποστάσεως"
 ---
