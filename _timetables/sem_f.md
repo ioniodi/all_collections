@@ -42,7 +42,7 @@ timetable:
   - day: "Τρίτη"
     time: 11
     course: "Στοχαστική Ανάλυση Δεδομένων" 
-    author: alex
+    author: "Μ. Αυλωνίτης"
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 13
@@ -52,7 +52,7 @@ timetable:
   - day: "Τρίτη"
     time: 15
     course: pattern-recognition
-    author: vlamos
+    author: vrahatis
     location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 17
