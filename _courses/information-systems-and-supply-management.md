@@ -10,7 +10,6 @@ type: "I"
 hours: 4
 extra: 2Ε
 ects: 5
-IN: 2
 books:
   - isbn_978_960_98123_3_7
   - isbn_978_960_9465_27_4
