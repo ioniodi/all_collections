@@ -10,6 +10,8 @@ type: "O"
 hours: 4
 extra: 2Ε
 ects: 4
+Erasmus_courses_with_English_instruction: "Ναι"
+AA: 12
 books:
   - isbn_960_209_924_0
   - isbn_978_960_461_463_9
