@@ -22,6 +22,7 @@ semester: 1
 title: Εισαγωγή στον Προγραμματισμό
 type: M
 uri: https://e-class.ionio.gr/courses/DCS157/
+IN: 6
 books:
 - isbn_978_960_512_6414
 - isbn_978_960_512_6414
