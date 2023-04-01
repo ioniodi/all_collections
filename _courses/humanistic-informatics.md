@@ -14,7 +14,7 @@ semester: 1
 title: Πληροφορική στις Ανθρωπιστικές Επιστήμες
 type: M
 uri: https://e-class.ionio.gr/courses/DCS113/
-IN: 5
+IN: 4
 books:
 - isbn_978_960_6759_73_4
 - isbn_960_418_021_9
