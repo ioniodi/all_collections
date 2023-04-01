@@ -21,6 +21,7 @@ semester: 1
 title: Εισαγωγή στην Επιστήμη των Υπολογιστών
 type: M
 uri: https://e-class.ionio.gr/courses/DCS116/
+IN: 4
 books:
 - isbn_978_960_7140_65_4
 - isbn_978_960_461_660_2

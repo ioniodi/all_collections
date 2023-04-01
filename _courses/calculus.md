@@ -19,6 +19,7 @@ semester: 1
 title: Μαθηματικός Λογισμός
 type: M
 uri: https://opencourses.ionio.gr/courses/DDI131/
+IN: 3
 books:
 - isbn_1221
 - isbn_1222
