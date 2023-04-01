@@ -11,6 +11,7 @@ hours: 4
 extra: "-"
 ects: 5
 Erasmus_courses_with_English_instruction: "Ναι"
+AA: 7
 books:
   - isbn_978_960_7182_70_8
   - isbn_9789604117307
