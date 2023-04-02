@@ -15,6 +15,8 @@ title: Πληροφορική στις Ανθρωπιστικές Επιστήμ
 type: M
 uri: https://e-class.ionio.gr/courses/DCS113/
 IN: 4
+DATE: 06-02-2023
+HOUR: 18:00-21:00 
 books:
 - isbn_978_960_6759_73_4
 - isbn_960_418_021_9
