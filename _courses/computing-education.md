@@ -10,7 +10,7 @@ type: "M"
 hours: 4
 extra: "-"
 ects: 4
-IN: 8
+IN2: 8
 DATE: 31-01-2023  
 HOUR: 11:00-13:00 
 books:
