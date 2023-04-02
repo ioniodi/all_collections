@@ -23,6 +23,8 @@ title: Εισαγωγή στον Προγραμματισμό
 type: M
 uri: https://e-class.ionio.gr/courses/DCS157/
 IN: 5
+DATE: 10-02-2023
+HOUR: 11:00-13:00
 books:
 - isbn_978_960_512_6414
 - isbn_978_960_512_6414
