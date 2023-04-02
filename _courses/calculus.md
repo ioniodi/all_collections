@@ -20,6 +20,8 @@ title: Μαθηματικός Λογισμός
 type: M
 uri: https://opencourses.ionio.gr/courses/DDI131/
 IN: 2
+DATE: 31-01-2023 
+HOUR: 18:00-21:00 
 books:
 - isbn_1221
 - isbn_1222
