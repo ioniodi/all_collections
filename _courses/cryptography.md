@@ -10,6 +10,9 @@ type: "Ο"
 hours: 4
 extra: "-"
 ects: 4
+IN: 11
+DATE: 06-02-2023 
+HOUR: 11:00-13:00
 books:
   - isbn_9789604117307
   - isbn_978_960_7182_76_0
