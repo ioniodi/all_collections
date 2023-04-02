@@ -10,6 +10,9 @@ type: "Ο"
 hours: 4
 extra: 2Φ
 ects: 4
+IN: 12
+DATE: 10-02-2023 
+HOUR: 15:00-18:00
 books:
   - isbn_978_960_266_291_5
   - isbn_978_960_7996_39_8
