@@ -10,6 +10,9 @@ type: "M"
 hours: 4
 extra: 2E
 ects: 6
+IN: 10
+DATE: 03-02-2023
+HOUR: 15:00-17:00 
 books:
   - isbn_978_960_461_352_6
   - isbn_978_960_418_008_0
