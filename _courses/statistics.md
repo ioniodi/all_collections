@@ -11,7 +11,7 @@ hours: 4
 extra: 2Ε
 ects: 6
 IN: 7 
-DATE: 24-01-2023
+DATE: 27-01-2023 
 HOUR: 11:00-13:00
 books:
   - isbn_9789603518495
