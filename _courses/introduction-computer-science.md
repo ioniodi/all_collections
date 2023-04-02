@@ -22,6 +22,8 @@ title: Εισαγωγή στην Επιστήμη των Υπολογιστών
 type: M
 uri: https://e-class.ionio.gr/courses/DCS116/
 IN: 3
+DATE: 03-02-2023 
+HOUR: 11:00-13:00
 books:
 - isbn_978_960_7140_65_4
 - isbn_978_960_461_660_2
