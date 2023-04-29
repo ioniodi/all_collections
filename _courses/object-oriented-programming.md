@@ -10,6 +10,7 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+AURL: https://axileaszervos-sitegr.netlify.app/people/riggas/
 IN2: 6
 DATE: 24-01-2023 
 HOUR: 11:00-13:00

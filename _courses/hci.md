@@ -10,6 +10,7 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+AURL: https://axileaszervos-sitegr.netlify.app/people/choko/
 IN2: 9
 DATE: 01-02-2023
 HOUR: 15:00-17:00
