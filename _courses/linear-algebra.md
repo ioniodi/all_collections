@@ -15,7 +15,6 @@ semester: 1
 title: Γραμμική Άλγεβρα
 type: M
 uri: https://e-class.ionio.gr/courses/DCS191/
-AURL: https://axileaszervos-sitegr.netlify.app/people/vlamos/
 IN: 1
 DATE: 23-01-2023
 HOUR: 11:00-14:00

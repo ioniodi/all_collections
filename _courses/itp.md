@@ -22,7 +22,6 @@ semester: 1
 title: Εισαγωγή στον Προγραμματισμό
 type: M
 uri: https://e-class.ionio.gr/courses/DCS157/
-AURL: https://axileaszervos-sitegr.netlify.app/people/andronikos/
 IN: 5
 DATE: 10-02-2023
 HOUR: 11:00-13:00

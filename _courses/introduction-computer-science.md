@@ -21,7 +21,6 @@ semester: 1
 title: Εισαγωγή στην Επιστήμη των Υπολογιστών
 type: M
 uri: https://e-class.ionio.gr/courses/DCS116/
-AURL: https://axileaszervos-sitegr.netlify.app/people/mistral/ 
 IN: 3
 DATE: 03-02-2023 
 HOUR: 11:00-13:00

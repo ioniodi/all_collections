@@ -10,9 +10,8 @@ type: "M"
 hours: 4
 extra: "-"
 ects: 4
-AURL: https://axileaszervos-sitegr.netlify.app/people/doukakis/
 IN2: 8
-DATE: 31-01-2023  
+DATE: 31-01-2023 
 HOUR: 11:00-13:00 
 books:
   - isbn_960_209_838_4

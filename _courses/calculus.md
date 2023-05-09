@@ -19,7 +19,6 @@ semester: 1
 title: Μαθηματικός Λογισμός
 type: M
 uri: https://opencourses.ionio.gr/courses/DDI131/
-AURL: https://axileaszervos-sitegr.netlify.app/people/vlamos/
 IN: 2
 DATE: 31-01-2023 
 HOUR: 18:00-21:00 

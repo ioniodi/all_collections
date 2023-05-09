@@ -14,7 +14,6 @@ semester: 1
 title: Πληροφορική στις Ανθρωπιστικές Επιστήμες
 type: M
 uri: https://e-class.ionio.gr/courses/DCS113/
-AURL: https://axileaszervos-sitegr.netlify.app/people/kerman/
 IN: 4
 DATE: 06-02-2023
 HOUR: 18:00-21:00 

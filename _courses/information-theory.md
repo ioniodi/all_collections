@@ -10,7 +10,6 @@ type: "Ο"
 hours: 4
 extra: 2Φ
 ects: 4
-AURL: https://axileaszervos-sitegr.netlify.app/people/avlonitis/
 IN2: 12
 DATE: 10-02-2023 
 HOUR: 15:00-18:00
