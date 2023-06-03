@@ -10,7 +10,7 @@ type: "Ο"
 hours: 4
 extra: 2Φ
 ects: 4
-Erasmus_courses_with_English_instruction: "Ναι"
+Erasmus_courses_with_English_instruction: "yes"
 AA: 20
 books: 
 
