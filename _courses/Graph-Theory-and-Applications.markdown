@@ -12,7 +12,7 @@ type: "O"
 hours: 4
 extra: "-"
 ects: 4
-Erasmus_courses_with_English_instruction: yes
+Erasmus_courses_with_English_instruction: true
 AA: 11
 books:
   - isbn_978-960-6759-87-1
