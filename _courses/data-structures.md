@@ -12,7 +12,7 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
-Erasmus_courses_with_English_instruction: "Ναι"
+Erasmus_courses_with_English_instruction: "yesssss"
 AA: 1
 books:
   - isbn_978_960_418_030_1
