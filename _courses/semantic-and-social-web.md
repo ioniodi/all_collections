@@ -10,7 +10,7 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
-Erasmus_courses_with_English_instruction: "Ναι"
+Erasmus_courses_with_English_instruction: "yes"
 AA: 24
 books:
   - isbn_9780387710013
