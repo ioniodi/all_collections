@@ -10,6 +10,9 @@ type: "M"
 hours: 4
 extra: "-"
 ects: 4
+IN2: 8
+DATE: 31-01-2023 
+HOUR: 11:00-13:00 
 books:
   - isbn_960_209_838_4
   - isbn_978_960_7996_51_0

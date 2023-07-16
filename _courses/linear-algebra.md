@@ -15,6 +15,9 @@ semester: 1
 title: Γραμμική Άλγεβρα
 type: M
 uri: https://e-class.ionio.gr/courses/DCS191/
+IN: 1
+DATE: 23-01-2023
+HOUR: 11:00-14:00
 books:
 - isbn_978_960_6706_09_7
 - isbn_978_960_6706_36_3
