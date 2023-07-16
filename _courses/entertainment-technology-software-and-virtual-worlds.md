@@ -10,6 +10,7 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
+Erasmus_courses_with_English_instruction: "yes"
 books:
   - isbn_978_960_461_255_0
   - isbn_978_960_351_699_6

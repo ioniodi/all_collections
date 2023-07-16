@@ -9,6 +9,7 @@ type: "Ο"
 hours: 4
 extra: null
 ects: 4
+Erasmus_courses_with_English_instruction: "no"
 uri: "https://opencourses.ionio.gr/courses/DDI225/"
 books: null
  
