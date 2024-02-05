@@ -1,7 +1,7 @@
 ---
 ref: mikalef
 title: "Πάτρικ Μικάλεφ"
-bio: "Απόφοιτος Διδάκτορας"
+excerpt: "Απόφοιτος Διδάκτορας"
 author: mikalef
 tel: ""
 email: "patrick.mikalef@ntnu.no"
